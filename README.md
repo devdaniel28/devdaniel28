@@ -3,7 +3,8 @@
 </h1>
 
  <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devdaniel28&show_icons=true&theme=aqua&include_all_commits=true&count_private=true,contribs&bg_color=00000000"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaniel28&layout=compact&langs_count=7&theme=aqua,contribs&bg_color=00000000"/>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=devdaniel28&theme=midnight-purple&hide_border=true&background=FFFFFF00">
+  <br>
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=devdaniel28&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaniel28&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,scss,html,ejs">
 </div>
